@@ -1,0 +1,12 @@
+
+flask
+flask-session
+sentence-transformers
+jsons
+pymongo
+ibm-watsonx-ai
+langchain
+langchain-community
+numpy
+bson
+faiss-cpu
